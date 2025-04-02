@@ -29,6 +29,23 @@ public String getNombre() {
 	return Nombre;
 }
 
+public int getEdad() {
+	return Edad;
+}
+
+public Double getAltura() {
+	return Altura;
+}
+
+public String getSexo() {
+	return Sexo;
+}
+
+public Double getPeso() {
+	return Peso;
+}
+
+
 public Double getVelocidadInicial() {
 	return VelocidadInicial;
 }
